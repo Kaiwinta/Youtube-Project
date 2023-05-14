@@ -7,6 +7,7 @@ from PIL import Image , ImageTk
 def main():
     """
         create a main windows
+        and display it on the screen
     """
 
     ws  =tk.Tk()
