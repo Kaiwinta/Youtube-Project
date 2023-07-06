@@ -83,8 +83,6 @@ def main():
 
         #2000 ms after we destroy it. No need to use time.sleep
         bot.after(2000, labelerreur.destroy)
-        
-    
     
 
     #Creation of the bottom frame with the entry and button
